@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raza</h1>
 
 ![](https://user-images.githubusercontent.com/37570492/212964557-8d832278-61bb-4288-a8a7-47f35859e868.gif)
-<h3 align="center">A passionate Test Automation Engineer with over 6 years experience in Website and mobile automation testing. Expertise in Selenium, Appium, Cypress, CI/CD for Website, mobile and API Test Automation.</h3>
+<h3 align="center">A passionate Test Automation Engineer with over 8 years experience in Website and mobile automation testing. Expertise in Selenium, Appium, Cypress, CI/CD for Website, mobile and API Test Automation.</h3>
 
 - 🔭 I’m currently working on **QA Engineer/Automation Tester at a multinational Media and Financial Product.**
 
